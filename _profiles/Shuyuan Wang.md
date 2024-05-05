@@ -8,5 +8,5 @@ project: N/A - Bio unavailable
 degree: PhD
 year_start: 2021
 year_end: 
-biography: Shuyuan Wang is a UBC DAIS Lab member.
+biography: Shuyuan Wang is a UBC DAIS Lab member. For more details, please check his website: josef-w.github.io
 ---
